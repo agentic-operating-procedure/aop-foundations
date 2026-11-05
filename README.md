@@ -7,7 +7,7 @@
 | Authority | The concept: definition, hierarchy, vocabulary, boundaries |
 | Tier | Concept |
 | Landing wave | 1 |
-| Version | 0.1.1 |
+| Version | 0.2.0 |
 | Status | Stable |
 | Licence | MIT |
 
